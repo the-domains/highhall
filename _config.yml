@@ -1,0 +1,14 @@
+layout_spectrum: 0.6149744
+typography_spectrum: 0.9242749
+color:
+  saturation: 0.5691065
+  lightness: 0.02731725
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#060606'
+    - '#434446'
+    - '#7E8285'
+    - '#D6D7E2'
+  rhythmicContrast: 0.9394511
+name: HighHall
