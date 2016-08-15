@@ -1,14 +1,26 @@
-layout_spectrum: 0.6149744
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.9242749
 color:
   saturation: 0.5691065
-  lightness: 0.02731725
   brandStrength: 1
+  lightness: 0.02731725
   brandColors:
-    - '#FFFFFF'
-    - '#060606'
-    - '#434446'
-    - '#7E8285'
-    - '#D6D7E2'
+    - '#E4F7FF'
+    - '#293C42'
+    - '#425C43'
+    - '#A49A90'
+    - '#7B7987'
   rhythmicContrast: 0.9394511
+layout_spectrum: 0.6149744
 name: HighHall
