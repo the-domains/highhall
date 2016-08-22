@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.1938775
   brandStrength: 0.5139635
   lightness: 0.8351235
   brandColors:
-    - '#D6DEE9'
-    - '#1E2213'
-    - '#39481D'
-    - '#7A6344'
-    - '#B29164'
-  rhythmicContrast: 0.9394511
+    - '#FFFFFF'
+    - '#060606'
+    - '#434446'
+    - '#7E8285'
+    - '#D6D7E2'
+  rhythmicContrast: 0
 typography_spectrum: 0.9242749
 layout_spectrum: 0
 name: HighHall
