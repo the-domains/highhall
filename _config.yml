@@ -10,7 +10,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.9242749
 color:
   saturation: 0.1938775
   brandStrength: 0.5139635
@@ -22,5 +21,6 @@ color:
     - '#7A6344'
     - '#B29164'
   rhythmicContrast: 0.9394511
-layout_spectrum: 0.6149744
+typography_spectrum: 0.9242749
+layout_spectrum: 0
 name: HighHall
